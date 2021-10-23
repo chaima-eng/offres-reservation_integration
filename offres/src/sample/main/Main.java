@@ -36,8 +36,8 @@ public class Main extends Application {
 
          */
 
-        Parent root = FXMLLoader.load(getClass().getResource("../GestionReservation/views/market.fxml"));
-        primaryStage.setTitle("Fruits Marker");
+        Parent root = FXMLLoader.load(getClass().getResource("../GestionOffre/GUI/interface.fxml"));
+        primaryStage.setTitle("AERO-SPACE");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
 

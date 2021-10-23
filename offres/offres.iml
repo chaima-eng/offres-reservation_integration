@@ -22,5 +22,10 @@
     <orderEntry type="library" name="jfxtras-labs-2.2-r5" level="application" />
     <orderEntry type="library" name="mysql-connector-java-8.0.19" level="project" />
     <orderEntry type="library" name="javafx-swt" level="project" />
+    <orderEntry type="library" name="zxing-j2se-1.7" level="project" />
+    <orderEntry type="library" name="zxing-core-2.0" level="project" />
+    <orderEntry type="library" name="zxing-core-1.7" level="project" />
+    <orderEntry type="library" name="zxing-1.7-javase" level="project" />
+    <orderEntry type="library" name="zxing" level="project" />
   </component>
 </module>
