@@ -6,7 +6,7 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseEvent;
 import sample.main.Main;
-import sample.main.MyListener;
+import sample.GestionReservation.Services.MyListener;
 import sample.GestionReservation.model.Fruit;
 import sample.GestionReservation.model.Hotel;
 

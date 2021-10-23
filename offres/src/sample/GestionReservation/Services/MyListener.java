@@ -1,4 +1,4 @@
-package sample.main;
+package sample.GestionReservation.Services;
 
 import sample.GestionReservation.model.Fruit;
 import sample.GestionReservation.model.Hotel;
